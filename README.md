@@ -34,11 +34,7 @@
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="![Uploading image.png…]()
-" alt="AI and Data Analysis" width="600" />
-</p>
-
+![image](https://github.com/user-attachments/assets/fcee0b62-fee0-412b-92d8-637cb15b5a01)
 
 
 ---
