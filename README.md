@@ -1,4 +1,5 @@
 # wardaelsated77
+<img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiS/giphy.gif" width="100%" />
 <h1 align="center">Hi there 👋, I'm Warda</h1>
 <h3 align="center">Aspiring Data Analyst & AI Engineer</h3>
 
@@ -22,11 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" width="400"/>
-</p>
 
 ---
 
