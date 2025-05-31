@@ -1,5 +1,6 @@
 # wardaelsated77
-<img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiS/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRuYjZ6dmZmYndmYmR2M3lyMzgyZXV6NzRuODZtbW4ybGxoZ3F4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwbzI2kV1a3Ttnp3GI/giphy.gif" width="100%" />
+
 <h1 align="center">Hi there 👋, I'm Warda</h1>
 <h3 align="center">Aspiring Data Analyst & AI Engineer</h3>
 
