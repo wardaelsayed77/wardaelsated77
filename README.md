@@ -35,7 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="AI and Data Analysis" width="600" />
+  <img src="![Uploading image.png…]()
+" alt="AI and Data Analysis" width="600" />
 </p>
 
 
