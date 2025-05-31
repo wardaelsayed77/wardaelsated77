@@ -35,8 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="AI Animation" width="400" />
+  <img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" alt="AI Brain Animation" width="400" />
 </p>
+
 
 
 ---
